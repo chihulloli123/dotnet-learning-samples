@@ -1,3 +1,17 @@
+## Personal Notes
+
+This project is part of my C# learning journey.
+Goals for this sample:
+- Understand LINQ queries in C#
+- Practice working with collections and filtering data
+- Modify and extend existing examples with custom logic
+
+Planned changes:
+- Add my own data set
+- Write a custom LINQ query
+- Refactor for readability
+
+
 # C# LINQ Sample
 
 This sample is created during the [Working with LINQ tutorial](https://docs.microsoft.com/dotnet/csharp/tutorials/working-with-linq) for learning C# features. Please see that topic for detailed steps on the code for this sample.
